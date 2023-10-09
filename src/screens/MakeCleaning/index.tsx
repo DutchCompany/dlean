@@ -20,7 +20,7 @@ export function MakeCleaning(){
                         latitude: -29.84423629677824, 
                         longitude: -50.521062361013435
                     }}
-                    title={"Casa"}
+                    title={"Minha casa"}
                     description={"Essa é minha casa"}
                 />
             </MapView>
